@@ -1,3 +1,24 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 011,Palacio
 012,Embajadores
 013,Cortes
@@ -10,7 +31,7 @@
 023,Chopera
 024,Legazpi
 025,Delicias
-026,PalosdeMoguer
+026,Palos de Moguer
 027,Atocha
 02,Arganzuela
 031,Pacífico
@@ -18,24 +39,24 @@
 033,Estrella
 034,Ibiza
 035,Jerónimos
-036,NiñoJesús
+036,Niño Jesús
 03,Retiro
 041,Recoletos
 042,Goya
-043,FuentedelBerro
+043,Fuente del Berro
 044,Guindalera
 045,Lista
 046,Castellana
 04,Salamanca
-051,ElViso
+051,El Viso
 052,Prosperidad
-053,CiudadJardín
+053,Ciudad Jardín
 054,Hispanoamérica
-055,NuevaEspaña
+055,Nueva España
 056,Castilla
 05,Chamartín
-061,BellasVistas
-062,CuatroCaminos
+061,Bellas Vistas
+062,Cuatro Caminos
 063,Castillejos
 064,Almenara
 065,Valdeacederas
@@ -45,95 +66,95 @@
 072,Arapiles
 073,Trafalgar
 074,Almagro
-075,RíosRosas
+075,Ríos Rosas
 076,Vallehermoso
 07,Chamberí
-081,ElPardo
+081,El Pardo
 082,Fuentelarreina
 083,Peñagrande
 084,Pilar
-085,LaPaz
+085,La Paz
 086,Valverde
 087,Mirasierra
-088,ElGoloso
-08,Fuencarral-ElPardo
-091,CasadeCampo
+088,El Goloso
+08,Fuencarral-El Pardo
+091,Casa de Campo
 092,Argüelles
-093,CiudadUniversitaria
+093,Ciudad Universitaria
 094,Valdezarza
 095,Valdemarín
-096,ElPlantío
+096,El Plantío
 097,Aravaca
 09,Moncloa-Aravaca
-101,LosCármenes
-102,PuertadelAngel
+101,Los Cármenes
+102,Puerta del Angel
 103,Lucero
 104,Aluche
 105,Campamento
-106,CuatroVientos
-107,LasÁguilas
+106,Cuatro Vientos
+107,Las Águilas
 10,Latina
 111,Comillas
 112,Opañel
-113,SanIsidro
-114,VistaAlegre
-115,PuertaBonita
+113,San Isidro
+114,Vista Alegre
+115,Puerta Bonita
 116,Buenavista
 117,Abrantes
 11,Carabanchel
 121,Orcasitas
 122,Orcasur
-123,SanFermín
+123,San Fermín
 124,Almendrales
 125,Moscardó
 126,Zofio
 127,Pradolongo
 12,Usera
 131,Entrevías
-132,SanDiego
-133,PalomerasBajas
-134,PalomerasSureste
+132,San Diego
+133,Palomeras Bajas
+134,Palomeras Sureste
 135,Portazgo
 136,Numancia
-13,PuentedeVallecas
+13,Puente de Vallecas
 141,Pavones
 142,Horcajo
 143,Marroquina
-144,MediaLegua
+144,Media Legua
 145,Fontarrón
 146,Vinateros
 14,Moratalaz
 151,Ventas
-152,PuebloNuevo
+152,Pueblo Nuevo
 153,Quintana
 154,Concepción
-155,SanPascual
-156,SanJuanBautista
+155,San Pascual
+156,San Juan Bautista
 157,Colina
 158,Atalaya
 159,Costillares
-15,CiudadLineal
+15,Ciudad Lineal
 161,Palomas
 162,Piovera
 163,Canillas
-164,PinardelRey
-165,ApóstolSantiago
+164,Pinar del Rey
+165,Apóstol Santiago
 166,Valdefuentes
 16,Hortaleza
-171,VillaverdeAlto,C,H,Villaverde
-172,SanCristóbal
+171,Villaverde 
+172,San Cristóbal
 173,Butarque
-174,LosRosales
-175,LosÁngeles
+174,Los Rosales
+175,Los Ángeles
 17,Villaverde
-181,CascoHistóricodeVallecas
-182,SantaEugenia
-183,EnsanchedeVallecas
-18,VilladeVallecas
-191,CascoHistóricodeVicálvaro
+181,Casco Histórico de Vallecas
+182,Santa Eugenia
+183,Ensanche de Vallecas
+18,Villa de Vallecas
+191,Casco Histórico de Vicálvaro
 192,Valdebernardo
 193,Valderrivas
-194,ElCañaveral
+194,El Cañaveral
 19,Vicálvaro
 201,Simancas
 202,Hellín
@@ -143,10 +164,10 @@
 206,Rejas
 207,Canillejas
 208,Salvador
-20,SanBlas-Canillejas
-211,AlamedadeOsuna
+20,San Blas-Canillejas
+211,Alameda de Osuna
 212,Aeropuerto
-213,CascoHistóricodeBarajas
+213,Casco Histórico de Barajas
 214,Timón
 215,Corralejos
 21,Barajas
